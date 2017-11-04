@@ -16,7 +16,7 @@ var client_secret = '';
 var reque = require("request");
 var url = "";
 var connection = mysql.createConnection({
-  host     : 'localhost',
+  host     : '',
   user     : '',
   password : '',
   port     : '',
